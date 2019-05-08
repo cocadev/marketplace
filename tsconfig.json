@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "lib": [
+      "es6",
+      "es7",
+      "es2016.array.include"
+    ],
+    "target": "es6",
+    "module": "es6",
+    "moduleResolution": "node",
+    "jsx": "react",
+    "allowSyntheticDefaultImports": true,
+    "noImplicitAny": false,
+    "preserveConstEnums": true,
+    "allowJs": false,
+    "sourceMap": true,
+    "noImplicitReturns": true,
+    "importHelpers": false,
+    "listEmittedFiles": true,
+    "diagnostics": false,
+    "noEmit": false,
+    "noEmitOnError": false,
+    "pretty": true
+  }
+}
