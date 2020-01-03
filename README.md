@@ -1,4 +1,4 @@
-<h1 align="center"><b> MarketPlace App </b> </h1>
+<h1 align="center"><b> MarketPlace RN App </b> </h1>
 
 <h1 align="center">
   <br>
