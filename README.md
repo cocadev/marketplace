@@ -2,7 +2,7 @@
 
 <p align="center">A minimal, clean and beautiful mobile app to help people find the jobs to book and change the world.</p>
 
-<p align="center"><i>"How to save a life?" - The Shoping Job</i> </p>
+<p align="center"><i>"How to save a life?"-The Shoping Job</i> </p>
 
 <p align="center">
   <a href="http://makeapullrequest.com">
