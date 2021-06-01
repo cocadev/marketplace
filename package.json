@@ -9,7 +9,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "formik": "^1.5.2",
     "moment": "^2.24.0",
     "react": "16.13.1",
