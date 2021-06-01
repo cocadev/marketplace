@@ -1,6 +1,6 @@
 {
-  "name": "MarketsFlow",
-  "version": "0.0.1",
+  "name": "rn-marketplace",
+  "version": "0.0.2",
   "private": true,
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
@@ -12,7 +12,7 @@
     "axios": "^0.18.0",
     "formik": "^1.5.2",
     "moment": "^2.24.0",
-    "react": "16.8.3",
+    "react": "16.13.1",
     "react-native": "^0.59.5",
     "react-native-chart-kit": "^2.6.1",
     "react-native-charts-wrapper": "^0.5.2",
