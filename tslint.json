@@ -22,7 +22,7 @@
     ],
     "max-line-length": {
       "options": [
-        200
+        400
       ]
     },
     "quotemark": [
